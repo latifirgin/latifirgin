@@ -274,6 +274,32 @@ footer{
     align-items: center;
 }
 
+
+/* Hobilerim */
+
+.inner_hobilerim{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+    color: #07f576;
+  
+}
+
+/* projeler */
+
+.inner_projeler{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 90%;
+    color: #07f576;
+}
+
 /* Mobil uyumlu stiller */
 @media (max-width: 768px){ 
     .navbar{
